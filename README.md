@@ -10,9 +10,9 @@ This tutorial covers:
 Technology/Websites used included:
 - [Alchemy](https://www.alchemy.com/)
 - [Rinkeby](https://rinkebyfaucet.com/)
-- Hardhat
-- Ethers.js
-- Replit
+- [Hardhat]()
+- [Ethers.js]()
+- [Replit]()
 <!-- - [Remix IDE](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null) -->
 <!-- - [Open Zepplin](https://www.openzeppelin.com/) -->
 <!-- - [Filebase](https://filebase.com/) -->
