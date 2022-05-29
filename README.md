@@ -18,4 +18,7 @@ Technology/Websites used included:
 <!-- - [Filebase](https://filebase.com/) -->
 <!-- - [OpenSea](https://opensea.io/) -->
 
+Chain: Ethereum
+Network: Goerli
+
 Tutorial found here [How to build "Buy Me a Coffee" DeFi Dapp (Solidity, Hardhat, Ethers.js, Alchemy) - Beginner](https://www.youtube.com/watch?v=cxxKdJk55Lk)
