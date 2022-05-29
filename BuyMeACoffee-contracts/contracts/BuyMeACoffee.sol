@@ -18,11 +18,11 @@ contract BuyMeACoffee {
         string message;
     }
 
-    // List of all memos received from friends
-    Memo[] memos;
-
     // Address of contract deployer 
     address payable owner;
+
+    // List of all memos received from friends
+    Memo[] memos;
 
     // Deploy Logic
     constructor() {
