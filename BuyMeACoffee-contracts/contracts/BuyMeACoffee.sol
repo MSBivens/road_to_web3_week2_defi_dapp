@@ -8,9 +8,9 @@ contract BuyMeACoffee {
         uint256 timestamp,
         string name,
         string message
-    )
+    );
 
-    // Meme struct
+    // Memo struct
     struct Memo {
         address from;
         uint256 timestamp;
