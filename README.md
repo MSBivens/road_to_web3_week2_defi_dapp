@@ -8,7 +8,9 @@ Tutorial found here [How to build "Buy Me a Coffee" DeFi Dapp (Solidity, Hardhat
 
 ## Overview Info
 Chain: Ethereum
+
 Network: Goerli
+
 Languages: Solidity, JavaScript
 
 Deployed to Goerli at: 0xdE844613ecD39b611c785b5019C41DA4aF9D05e6
