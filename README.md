@@ -6,7 +6,7 @@ This was week 2, and the tutorial has users create a "buy me a coffee" DeFi dApp
 
 Tutorial found here [How to build "Buy Me a Coffee" DeFi Dapp (Solidity, Hardhat, Ethers.js, Alchemy) - Beginner](https://www.youtube.com/watch?v=cxxKdJk55Lk)
 
-## Overvoew Info
+## Overview Info
 Chain: Ethereum
 Network: Goerli
 Languages: Solidity, JavaScript
@@ -18,7 +18,7 @@ Replit repl: https://replit.com/@MSBivens/BuyMeACoffee-Solidity-DeFi-Tipping-app
 ## This tutorial covers:
 - Coding a custom smart contract
 - Using Hardhat, Ehers.js
-- Building  a frontend site using Replit
+- Building a frontend site using Replit
 
 ## Technology/Websites used:
 - [Alchemy](https://www.alchemy.com/)
