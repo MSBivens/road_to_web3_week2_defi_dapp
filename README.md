@@ -12,7 +12,9 @@ Network: Goerli
 Languages: Solidity, JavaScript
 
 Deployed to Goerli at: 0xdE844613ecD39b611c785b5019C41DA4aF9D05e6
+
 Goerly Contract Link on Etherscan: https://goerli.etherscan.io/address/0xde844613ecd39b611c785b5019c41da4af9d05e6
+
 Replit repl: https://replit.com/@MSBivens/BuyMeACoffee-Solidity-DeFi-Tipping-app 
 
 ## This tutorial covers:
